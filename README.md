@@ -41,7 +41,7 @@ Developed as part of **CSC5356 Data Engineering** coursework at **Al Akhawayn Un
 
 ### 1. COVID-19 Global Transmission Network
 
-![COVID-19 Network](covid_network_visualization.png)
+![COVID-19 Network](visualizations/covid_network_visualization.png)
 
 **Network Type:** Force-directed graph with community detection  
 **Data Points:** 230+ countries, weighted edges by transmission similarity  
@@ -67,7 +67,7 @@ Developed as part of **CSC5356 Data Engineering** coursework at **Al Akhawayn Un
 
 ### 2. Earthquake Temporal Analysis
 
-![Earthquake Temporal Patterns](earthquake_temporal_analysis.png)
+![Earthquake Temporal Patterns](visualizations/earthquake_temporal_analysis.png)
 
 **Analysis Period:** February 22 - March 26, 2025  
 **Total Events:** 8,943 earthquakes  
@@ -105,7 +105,7 @@ Developed as part of **CSC5356 Data Engineering** coursework at **Al Akhawayn Un
 
 ### 3. Regional Earthquake Magnitude Comparison
 
-![Regional Magnitude Analysis](regional_magnitude_comparison.png)
+![Regional Magnitude Analysis](visualizations/regional_magnitude_comparison.png)
 
 **Regions Analyzed:** Top 10 seismically active areas  
 **Visualization Type:** Box plot with outlier detection
